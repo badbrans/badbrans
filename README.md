@@ -24,23 +24,39 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-### ⚙️ Complementares
-
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
+---
+
+### 🗄️ Banco de Dados / Mensageria
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF9900?logo=amazon-aws&logoColor=white)
+---
+
+### 🚢 DevOps / Infra
+
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+---
+
+### 🔌 Hardware / IoT
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 
 ---
 
 ## ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badbrans&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badbrans&layout=compact&theme=radical)
 
 ---
@@ -50,7 +66,7 @@
 ### 👨‍💼 CTO - Grupo UNICAD (Atual)
 - Liderança de projetos de tecnologia e inovação
 - Desenvolvimento de soluções de IA para segurança e monitoramento inteligente
-- Arquitetura de sistemas backend (Python + Node.js)
+- Arquitetura de sistemas backend (Python)
 - Gestão de time de tecnologia e parcerias estratégicas
 - Desenvolvimento de sistemas embarcados para rastreamento e IoT
 
@@ -74,7 +90,6 @@
 - **Frameworks de IA generativa**
 - **Arquitetura de Blockchain**
 - **C++ para aplicações embarcadas e IoT**
-- **Infraestrutura escalável com Kubernetes**
 
 ---
 
