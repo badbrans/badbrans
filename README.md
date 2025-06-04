@@ -9,10 +9,11 @@
 ## 🚀 Sobre mim
 
 🔹 **CTO do Grupo UNICAD**  
+🔹 **Criador do botão de pânico do Rio Alerta (Integrado com o programa "190 integrado" da PMRJ)**  
+🔹 **Palestras e Workshops sobre IA**  
 🔹 **Formado em Análise e Desenvolvimento de Sistemas**  
 🔹 **Pós-graduação em Inteligência Artificial, NLP e Blockchain**  
 🔹 **Entusiasta e Pesquisador em IA aplicada à Segurança**  
-🔹 **Especialista em arquitetura de sistemas de alta performance e soluções inteligentes**  
 🔹 **Projetos pessoais com Arduino, C++ e IoT**
 
 ---
@@ -26,7 +27,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
 ---
 
@@ -48,10 +48,15 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ---
+### 🌐 APIs & Integrações
+
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?logo=google&logoColor=white)
+![Flespi](https://img.shields.io/badge/Flespi-009AF0?style=flat&logoColor=white)
 
 ### 🔌 Hardware / IoT
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
 ---
 
