@@ -12,7 +12,7 @@
 🔹 **Criador do botão de pânico do Rio Alerta (Integrado com o programa "190 integrado" da PMRJ)**  
 🔹 **Palestras e Workshops sobre Fraudes com IA**  
 🔹 **Formado em Análise e Desenvolvimento de Sistemas**  
-🔹 **Pós-graduação em Inteligência Artificial, NLP e Blockchain**  
+🔹 **Pós-graduação (em andamento) em Inteligência Artificial, NLP e Blockchain**  
 🔹 **Entusiasta e Pesquisador em IA aplicada à Segurança**  
 🔹 **Projetos pessoais com Arduino, C++ e IoT**
 
@@ -85,13 +85,12 @@
 ## 📚 Formação Acadêmica
 
 🎓 **Análise e Desenvolvimento de Sistemas**  
-🎓 **Pós-graduação em Inteligência Artificial, NLP e Blockchain**  
+🎓 **Pós-graduação (Em andamento) em Inteligência Artificial, NLP e Blockchain**  
 
 ---
 
 ## 🌱 Atualmente estudando
 
-- **MLOps e Deploy de Modelos em Produção**
 - **Frameworks de IA generativa**
 - **Arquitetura de Blockchain**
 - **C++ para aplicações embarcadas e IoT**
