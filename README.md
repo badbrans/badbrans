@@ -10,7 +10,7 @@
 
 🔹 **CTO do Grupo UNICAD**  
 🔹 **Criador do botão de pânico do Rio Alerta (Integrado com o programa "190 integrado" da PMRJ)**  
-🔹 **Palestras e Workshops sobre IA**  
+🔹 **Palestras e Workshops sobre Fraudes com IA**  
 🔹 **Formado em Análise e Desenvolvimento de Sistemas**  
 🔹 **Pós-graduação em Inteligência Artificial, NLP e Blockchain**  
 🔹 **Entusiasta e Pesquisador em IA aplicada à Segurança**  
